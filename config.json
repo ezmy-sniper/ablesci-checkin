@@ -1,0 +1,5 @@
+{
+  "url": "https://www.ablesci.com/",
+  "button_selector": ".fly-signin button.btn-sign",
+  "signed_selector": ""
+}
